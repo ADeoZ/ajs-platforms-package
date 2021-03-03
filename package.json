@@ -1,0 +1,19 @@
+{
+  "name": "@adeoz/ajs-platforms-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADeoZ/ajs-platforms-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADeoZ/ajs-platforms-package/issues"
+  },
+  "homepage": "https://github.com/ADeoZ/ajs-platforms-package#readme"
+}
